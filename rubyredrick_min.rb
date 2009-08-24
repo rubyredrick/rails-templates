@@ -5,7 +5,6 @@ plugin 'cucumber',
 plugin 'webrat',
   :git => "git://github.com/brynary/webrat.git vendor/plugins/webrat",
   :submodule => true
-plugin
 plugin 'rspec', 
   :git => "git://github.com/dchelimsky/rspec.git",
   :submodule => true
